@@ -73,7 +73,6 @@ page 50100 "Web Order Integration"
                     ToolTip = 'Specifies the value of the Amount field.';
                 }
 
-
                 field("Order/Quote Created"; Rec."Order/Quote Created")
                 {
                     ApplicationArea = All;
@@ -132,6 +131,7 @@ page 50100 "Web Order Integration"
             }
         }
     }
+
     actions
     {
         area(Processing)
@@ -152,10 +152,10 @@ page 50100 "Web Order Integration"
                 //Assigning User Setup to table to a record variable
                 begin
                     UserSetupRec.Get(UserId);
-                    //now the UserSetupRec points to only one record
+                    //now the UserSetupRec points to only one record(which is the current user)
 
                     if UserSetupRec."Import Web Order Permission" then
-                        //
+                        //checking the "Import Web Order Permission" of the Record
                         ImportWebOrdersFromExcel()
                     else
                         Error('You do not have a permission to import!');
@@ -198,6 +198,8 @@ page 50100 "Web Order Integration"
         DialogCaption := 'Select File to upload';
         UploadResult := UploadIntoStream(DialogCaption, '', '', Name, NVInStream);
         Sheetname := 'Sheet1';
+        if not UploadResult then
+            exit;
 
         // Message(Sheetname);
         Rec_ExcelBuffer.Reset();
@@ -221,6 +223,7 @@ page 50100 "Web Order Integration"
                 Columns := Columns + 1;
             until Rec_ExcelBuffer.Next() = 0;
 
+        //for loop starts here
         for RowNo := 2 to Rows do begin
             if GetValueAtIndex(RowNo, 1) = 'Order' then
                 WebOrderType := WebOrderType::Order
@@ -249,16 +252,16 @@ page 50100 "Web Order Integration"
                 if WebOrderIntegrataion.Insert(true) then
                     Inx += 1;
             end;
-
         end;
+        //for loop ends here
+
         if Inx > 0 then
             Message('%1 of Web Orders has been Imported Successfully!\', Inx)
         else
             Error('Nothing to process.');
     end;
 
-    local procedure GetValueAtIndex(RowNo: Integer;
-   ColNo: Integer): Text
+    local procedure GetValueAtIndex(RowNo: Integer; ColNo: Integer): Text
     var
         Rec_ExcelBuffer: Record "Excel Buffer";
     begin
@@ -279,8 +282,7 @@ page 50100 "Web Order Integration"
         Name: Text;
         NVInStream: InStream;
         RowNo: Integer;
-        TxtDate: Text;
-        DocumentDate: Date;
+        TxtDate: Text; // DocumentDate: Date;
         TimeDataUpload: Record "Sales Orders / Sales Quotes";
         LineNo: Integer;
 }

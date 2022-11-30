@@ -88,9 +88,9 @@ table 50100 "Sales Orders / Sales Quotes"
             Caption = 'Order/Quote Created Time';
             DataClassification = CustomerContent;
         }
-        field(17; "Imported User "; Code[50])
+        field(17; "Imported User"; Code[50])
         {
-            Caption = 'Imported User ';
+            Caption = 'Imported User';
             DataClassification = CustomerContent;
         }
         field(18; "Imported Date"; Date)
@@ -98,7 +98,7 @@ table 50100 "Sales Orders / Sales Quotes"
             Caption = 'Imported Date';
             DataClassification = CustomerContent;
         }
-        field(19; "Imported Time"; TableFilter)
+        field(19; "Imported Time"; Time)
         {
             Caption = 'Imported Time';
             DataClassification = CustomerContent;

@@ -1,8 +1,6 @@
 codeunit 50100 "Import From Excel"
 {
     trigger OnRun()
-    var
-    // myInt: Integer;
     begin
         ImportWebOrdersFromExcel()
     end;
@@ -11,11 +9,11 @@ codeunit 50100 "Import From Excel"
     var
         WebOrderIntegrataion: Record "Sales Orders / Sales Quotes";
         WebOrderIntegrataion2: Record "Sales Orders / Sales Quotes";
+        CustomerMaster: Record Customer;
         DateVariant: Variant;
         DateCheck: Boolean;
         Inx: Integer;
         WebOrderType: Enum "Document Type";
-        CustomerMaster: Record Customer;
     begin
 
         Rec_ExcelBuffer.DeleteAll();

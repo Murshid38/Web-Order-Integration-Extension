@@ -2,7 +2,7 @@ codeunit 50101 "Generate SO / SQ"
 {
     trigger OnRun()
     begin
-
+        Generate();
     end;
 
     local procedure Generate()
@@ -85,10 +85,13 @@ codeunit 50101 "Generate SO / SQ"
                 SalesHeader.SetRange("Document Type", SalesHeader."Document Type"::Order);
                 SalesHeader.SetRange("No.", webOrder."Document No.");
                 if SalesHeader.FindFirst() then
-                    if SalesHeader.SendToPosting(80) then begin
+                    if Codeunit.Run(Codeunit::"Sales-Post") then begin
                         webOrder."SO Posted" := true;
                         webOrder."SO Posting Command" := false;
                         webOrder.Modify();
+                        // WebOrderIntegrataion."Posted Shipment No." := postedsalesIn."No.";
+                        // WebOrderIntegrataion."Posted Invoice No." := postedsalesIn."No.";
+                        Message('Generate Sales order post it Successfully !\')
                     end;
             until webOrder.Next() = 0;
     end;

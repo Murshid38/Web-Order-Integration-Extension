@@ -195,6 +195,7 @@ page 50100 "Web Order Integration"
     local procedure Generate()
     var
         webOrder: Record "Sales Orders / Sales Quotes";
+        webOrder2: Record "Sales Orders / Sales Quotes";
         SalesHeader: Record "Sales Header";
         SalesLine: Record "Sales Line";
         Doctype: Enum "Document Type";
@@ -266,20 +267,43 @@ page 50100 "Web Order Integration"
         webOrder.SetRange("Order/Quote Created", true);
         webOrder.SetRange("SO Posted", false);
         webOrder.SetRange("SO Posting Command", true);
+        // webOrder.SetCurrentKey("Document Type", "Document No.", "Line No.");
+        // if webOrder.FindFirst() then
+        //     repeat
+        //         if GroupDoc <> webOrder."Document No." then begin
+        //             GroupDoc := webOrder."Document No.";
+        //             clear(SalesHeader);
+        //             SalesHeader.SetRange("Document Type", SalesHeader."Document Type"::Order);
+        //             SalesHeader.SetRange("No.", webOrder."Document No.");
+        //             if SalesHeader.FindFirst() then
+        //                 if Codeunit.Run(Codeunit::"Sales-Post") then begin
+        //                     webOrder."SO Posted" := true;
+        //                     webOrder."SO Posting Command" := false;
+        //                     webOrder.Modify();
+        //                     // WebOrderIntegrataion."Posted Shipment No." := postedsalesIn."No.";
+        //                     // WebOrderIntegrataion."Posted Invoice No." := postedsalesIn."No.";
+        //                     Message('Generate Sales order post it Successfully !\')
+        //                 end;
+        //     until webOrder.Next() = 0;
+        //         end;
+        webOrder.SetCurrentKey("Document Type", "Document No.", "Line No.");
         if webOrder.FindFirst() then
             repeat
-                clear(SalesHeader);
-                SalesHeader.SetRange("Document Type", SalesHeader."Document Type"::Order);
-                SalesHeader.SetRange("No.", webOrder."Document No.");
-                if SalesHeader.FindFirst() then
-                    if Codeunit.Run(Codeunit::"Sales-Post") then begin
-                        webOrder."SO Posted" := true;
-                        webOrder."SO Posting Command" := false;
-                        webOrder.Modify();
-                        // WebOrderIntegrataion."Posted Shipment No." := postedsalesIn."No.";
-                        // WebOrderIntegrataion."Posted Invoice No." := postedsalesIn."No.";
-                        Message('Generate Sales order post it Successfully !\')
-                    end;
+                if GroupDoc <> webOrder."Document No." then begin
+                    GroupDoc := webOrder."Document No.";
+
+                    clear(SalesHeader);
+                    SalesHeader.SetRange("Document Type", SalesHeader."Document Type"::Order);
+                    SalesHeader.SetRange("No.", webOrder."Document No.");
+                    if SalesHeader.FindFirst() then
+                        if SalesHeader.SendToPosting(80) then begin
+                            Clear(webOrder2);
+                            webOrder2.SetRange("Document Type", webOrder2."Document Type"::Order);
+                            webOrder2.SetRange("Document No.", webOrder."Document No.");
+                            webOrder2.ModifyAll("SO Posted", true);
+                            webOrder2.ModifyAll("SO Posting Command", false);
+                        end;
+                end;
             until webOrder.Next() = 0;
     end;
 

@@ -8,7 +8,7 @@ codeunit 50101 "Generate Sales Orders"
     local procedure Generate()
     var
         WebOrdersRecord: Record "Web Orders";
-        WebOrdersRecord2: Record "Web Orders";
+        WebOrdersTempRecord: Record "Web Orders";
         SalesHeader: Record "Sales Header";
         SalesLine: Record "Sales Line";
         GroupDoc: Code[20];
@@ -91,11 +91,11 @@ codeunit 50101 "Generate Sales Orders"
                     SalesHeader.SetRange("No.", WebOrdersRecord."Document No.");
                     if SalesHeader.FindFirst() then
                         if SalesHeader.SendToPosting(80) then begin
-                            Clear(WebOrdersRecord2);
-                            WebOrdersRecord2.SetRange("Document Type", WebOrdersRecord2."Document Type"::Order);
-                            WebOrdersRecord2.SetRange("Document No.", WebOrdersRecord."Document No.");
-                            WebOrdersRecord2.ModifyAll("SO Posted", true);
-                            WebOrdersRecord2.ModifyAll("SO Posting Command", false);
+                            Clear(WebOrdersTempRecord);
+                            WebOrdersTempRecord.SetRange("Document Type", WebOrdersTempRecord."Document Type"::Order);
+                            WebOrdersTempRecord.SetRange("Document No.", WebOrdersRecord."Document No.");
+                            WebOrdersTempRecord.ModifyAll("SO Posted", true);
+                            WebOrdersTempRecord.ModifyAll("SO Posting Command", false);
                         end;
                 end;
             until WebOrdersRecord.Next() = 0;

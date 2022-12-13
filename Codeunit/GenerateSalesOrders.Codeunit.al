@@ -11,7 +11,7 @@ codeunit 50101 "Generate Sales Orders"
         webOrder2: Record "Sales Orders / Sales Quotes";
         SalesHeader: Record "Sales Header";
         SalesLine: Record "Sales Line";
-        Doctype: Enum "Document Type";
+        // Doctype: Enum "Document Type";
         GroupDoc: Code[20];
         Window: Dialog;
         Inx: Integer;

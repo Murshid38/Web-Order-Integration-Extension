@@ -9,9 +9,9 @@ codeunit 50103 "Import From Excel"
     var
         WebOrderIntegrataion: Record "Sales Orders / Sales Quotes";
         WebOrderIntegrataion2: Record "Sales Orders / Sales Quotes";
-        CustomerMaster: Record Customer;
-        DateVariant: Variant;
-        DateCheck: Boolean;
+        // CustomerMaster: Record Customer;
+        // DateVariant: Variant;
+        // DateCheck: Boolean;
         Inx: Integer;
         WebOrderType: Enum "Document Type";
     begin
@@ -95,18 +95,18 @@ codeunit 50103 "Import From Excel"
 
     var
         Rec_ExcelBuffer: Record "Excel Buffer";
-        TimeDataUpload: Record "Sales Orders / Sales Quotes";
+        // TimeDataUpload: Record "Sales Orders / Sales Quotes";
         Rows: Integer;
         Columns: Integer;
-        Fileuploaded: Boolean;
-        UploadIntoStream: InStream;
-        FileName: Text;
+        // Fileuploaded: Boolean;
+        // UploadIntoStream: InStream;
+        // FileName: Text;
         Sheetname: Text;
         UploadResult: Boolean;
         DialogCaption: Text;
         Name: Text;
         NVInStream: InStream;
         RowNo: Integer;
-        TxtDate: Text; // DocumentDate: Date;
-        LineNo: Integer;
+    // TxtDate: Text; // DocumentDate: Date;
+    // LineNo: Integer;
 }

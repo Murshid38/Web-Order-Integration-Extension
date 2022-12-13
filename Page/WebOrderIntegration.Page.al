@@ -192,6 +192,4 @@ page 50100 "Web Order Integration"
             }
         }
     }
-
-
 }

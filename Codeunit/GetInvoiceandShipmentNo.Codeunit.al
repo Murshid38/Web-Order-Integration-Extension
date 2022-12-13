@@ -3,14 +3,14 @@ codeunit 50102 "Get Invoice and Shipment No"
     [EventSubscriber(ObjectType::Codeunit, Codeunit::"Sales-Post", 'OnAfterPostSalesDoc', '', true, true)]
     local procedure GetInvoiceAndShipNo(var SalesHeader: Record "Sales Header"; SalesShptHdrNo: Code[20]; SalesInvHdrNo: Code[20])
     var
-        WebOrdersRecordsRecord: Record "Web Orders";
+        WebOrdersRecord: Record "Web Orders";
     begin
-        Clear(WebOrdersRecordsRecord);
-        WebOrdersRecordsRecord.SetCurrentKey("Document Type", "Document No.", "Line No.");
-        WebOrdersRecordsRecord.SetRange("Document Type", WebOrdersRecordsRecord."Document Type"::Order);
-        WebOrdersRecordsRecord.SetRange("Document No.", SalesHeader."No.");
-        WebOrdersRecordsRecord.ModifyAll("Posted Invoice No.", SalesInvHdrNo);
-        WebOrdersRecordsRecord.ModifyAll("Posted Shipment No.", SalesShptHdrNo);
+        Clear(WebOrdersRecord);
+        WebOrdersRecord.SetCurrentKey("Document Type", "Document No.", "Line No.");
+        WebOrdersRecord.SetRange("Document Type", WebOrdersRecord."Document Type"::Order);
+        WebOrdersRecord.SetRange("Document No.", SalesHeader."No.");
+        WebOrdersRecord.ModifyAll("Posted Invoice No.", SalesInvHdrNo);
+        WebOrdersRecord.ModifyAll("Posted Shipment No.", SalesShptHdrNo);
     end;
 }
 

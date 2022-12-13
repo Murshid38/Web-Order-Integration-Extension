@@ -19,7 +19,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 0,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Access%2520Control.al"
@@ -43,7 +43,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 1,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Active%2520Session.al"
@@ -67,7 +67,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 2,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Add-in.al"
@@ -91,7 +91,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 3,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520API%2520Webhook%2520Notification%2520Aggr.al"
@@ -115,7 +115,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 4,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520API%2520Webhook%2520Notification.al"
@@ -139,7 +139,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 5,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520API%2520Webhook%2520Subscription.al"
@@ -163,7 +163,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 6,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Application%2520Dependency.al"
@@ -187,7 +187,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 7,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Application%2520Object%2520Metadata.al"
@@ -211,7 +211,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 8,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Application%2520Resource.al"
@@ -235,7 +235,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 9,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Chart.al"
@@ -259,7 +259,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 10,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Company.al"
@@ -283,7 +283,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 11,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Configuration%2520Package%2520File.al"
@@ -307,7 +307,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 12,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Data%2520Sensitivity.al"
@@ -331,7 +331,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 13,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Debugger%2520Breakpoint.al"
@@ -355,7 +355,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 14,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Debugger%2520Watch.al"
@@ -379,7 +379,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 15,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query%2520Caption.al"
@@ -403,7 +403,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 16,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query%2520Category.al"
@@ -427,7 +427,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 17,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query%2520Column%2520Filter.al"
@@ -451,7 +451,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 18,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query%2520Column.al"
@@ -475,7 +475,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 19,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query%2520Data%2520Item.al"
@@ -499,7 +499,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 20,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query%2520Filter.al"
@@ -523,7 +523,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 21,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query%2520Group.al"
@@ -547,7 +547,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 22,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query%2520Join.al"
@@ -571,7 +571,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 23,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query%2520Order%2520By.al"
@@ -595,7 +595,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 24,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query%2520Permission.al"
@@ -619,7 +619,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 25,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Designed%2520Query.al"
@@ -643,7 +643,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 26,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Device.al"
@@ -667,7 +667,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 27,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Document%2520Service.al"
@@ -691,7 +691,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 28,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Entitlement%2520Set.al"
@@ -715,7 +715,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 29,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Entitlement.al"
@@ -739,7 +739,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 30,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Installed%2520Application.al"
@@ -763,7 +763,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 31,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Intelligent%2520Cloud%2520Status.al"
@@ -787,7 +787,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 32,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Intelligent%2520Cloud.al"
@@ -811,7 +811,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 33,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Isolated%2520Storage.al"
@@ -835,7 +835,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 34,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520License%2520Permission.al"
@@ -859,7 +859,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 35,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Media%2520Resources.al"
@@ -883,7 +883,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 36,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Media%2520Set.al"
@@ -907,7 +907,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 37,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Media.al"
@@ -931,7 +931,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 38,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Membership%2520Entitlement.al"
@@ -955,7 +955,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 39,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Capabilities.al"
@@ -979,7 +979,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 40,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Data%2520Archive.al"
@@ -1003,7 +1003,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 41,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Dependencies.al"
@@ -1027,7 +1027,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 42,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Installed%2520App.al"
@@ -1051,7 +1051,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 43,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Object%2520Metadata.al"
@@ -1075,7 +1075,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 44,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Object%2520Prerequisites.al"
@@ -1099,7 +1099,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 45,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Publish%2520Reference.al"
@@ -1123,7 +1123,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 46,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Published%2520App.al"
@@ -1147,7 +1147,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 47,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Resource.al"
@@ -1171,7 +1171,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 48,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Setting.al"
@@ -1195,7 +1195,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 49,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Tenant%2520Add-In.al"
@@ -1219,7 +1219,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 50,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Tenant%2520App.al"
@@ -1243,7 +1243,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 51,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App%2520Tenant%2520Operation.al"
@@ -1267,7 +1267,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 52,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520NAV%2520App.al"
@@ -1291,7 +1291,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 53,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Object%2520Data%2520Access%2520Intent%2520Override.al"
@@ -1315,7 +1315,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 54,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Object%2520Metadata.al"
@@ -1339,7 +1339,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 55,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Object%2520Options.al"
@@ -1363,7 +1363,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 56,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Object.al"
@@ -1387,7 +1387,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 57,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520OData%2520Edm%2520Type.al"
@@ -1411,7 +1411,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 58,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Page%2520Data%2520Personalization.al"
@@ -1435,7 +1435,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 59,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Page%2520Documentation.al"
@@ -1459,7 +1459,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 60,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Page%2520Usage%2520State.al"
@@ -1483,7 +1483,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 61,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Permission%2520Set.al"
@@ -1507,7 +1507,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 62,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Permission.al"
@@ -1531,7 +1531,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 63,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Power%2520BI%2520Blob.al"
@@ -1555,7 +1555,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 64,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Power%2520BI%2520Default%2520Selection.al"
@@ -1579,7 +1579,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 65,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Profile%2520Configuration%2520Symbols.al"
@@ -1603,7 +1603,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 66,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Profile%2520Metadata.al"
@@ -1627,7 +1627,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 67,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Profile%2520Page%2520Metadata.al"
@@ -1651,7 +1651,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 68,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Profile.al"
@@ -1675,7 +1675,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 69,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Published%2520Application.al"
@@ -1699,7 +1699,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 70,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Query%2520Navigation.al"
@@ -1723,7 +1723,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 71,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Record%2520Link.al"
@@ -1747,7 +1747,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 72,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Report%2520Layout%2520Definition.al"
@@ -1771,7 +1771,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 73,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Report%2520Layout.al"
@@ -1795,7 +1795,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 74,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Report%2520Settings%2520Override.al"
@@ -1819,7 +1819,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 75,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Scheduled%2520Task.al"
@@ -1843,7 +1843,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 76,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Send-To%2520Program.al"
@@ -1867,7 +1867,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 77,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Server%2520Instance.al"
@@ -1891,7 +1891,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 78,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Session%2520Event.al"
@@ -1915,7 +1915,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 79,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Style%2520Sheet.al"
@@ -1939,7 +1939,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 80,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Feature%2520Key.al"
@@ -1963,7 +1963,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 81,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520License%2520State.al"
@@ -1987,7 +1987,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 82,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Media%2520Set.al"
@@ -2011,7 +2011,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 83,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Media%2520Thumbnails.al"
@@ -2035,7 +2035,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 84,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Media.al"
@@ -2059,7 +2059,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 85,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Permission%2520Set.al"
@@ -2083,7 +2083,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 86,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Permission.al"
@@ -2107,7 +2107,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 87,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Profile%2520Extension.al"
@@ -2131,7 +2131,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 88,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Profile%2520Page%2520Metadata.al"
@@ -2155,7 +2155,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 89,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Profile%2520Setting.al"
@@ -2179,7 +2179,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 90,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Profile.al"
@@ -2203,7 +2203,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 91,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Report%2520Layout%2520Selection.al"
@@ -2227,7 +2227,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 92,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Report%2520Layout.al"
@@ -2251,7 +2251,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 93,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Tenant%2520Web%2520Service.al"
@@ -2275,7 +2275,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 94,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Token%2520Cache.al"
@@ -2299,7 +2299,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 95,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Upgrade%2520Blob%2520Storage.al"
@@ -2323,7 +2323,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 96,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520User%2520Default%2520Style%2520Sheet.al"
@@ -2347,7 +2347,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 97,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520User%2520Metadata.al"
@@ -2371,7 +2371,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 98,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520User%2520Page%2520Metadata.al"
@@ -2395,7 +2395,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 99,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520User%2520Personalization.al"
@@ -2419,7 +2419,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 100,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520User%2520Property.al"
@@ -2443,7 +2443,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 101,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520User.al"
@@ -2467,7 +2467,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 102,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Web%2520Service.al"
@@ -2491,7 +2491,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 103,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Webhook%2520Notification.al"
@@ -2515,7 +2515,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 104,
         "SymbolZipPath": "src/System%2520Tables/Table%2520-%2520Webhook%2520Subscription.al"
@@ -2539,7 +2539,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 105,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Aggregate%2520Permission%2520Set.al"
@@ -2563,7 +2563,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 106,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520All%2520Control%2520Fields.al"
@@ -2587,7 +2587,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 107,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520All%2520Profile.al"
@@ -2611,7 +2611,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 108,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520AllObj.al"
@@ -2635,7 +2635,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 109,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520AllObjWithCaption.al"
@@ -2659,7 +2659,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 110,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Api%2520Web%2520Service.al"
@@ -2683,7 +2683,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 111,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520API%2520Webhook%2520Entity.al"
@@ -2707,7 +2707,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 112,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Code%2520Coverage.al"
@@ -2731,7 +2731,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 113,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520CodeUnit%2520Metadata.al"
@@ -2755,7 +2755,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 114,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Database%2520Locks.al"
@@ -2779,7 +2779,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 115,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Database.al"
@@ -2803,7 +2803,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 116,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Date.al"
@@ -2827,7 +2827,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 117,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Debugger%2520Call%2520Stack.al"
@@ -2851,7 +2851,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 118,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Debugger%2520Variable.al"
@@ -2875,7 +2875,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 119,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Debugger%2520Watch%2520Value.al"
@@ -2899,7 +2899,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 120,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Designed%2520Query%2520Management.al"
@@ -2923,7 +2923,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 121,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Designed%2520Query%2520Obj.al"
@@ -2947,7 +2947,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 122,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Drive.al"
@@ -2971,7 +2971,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 123,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Event%2520Subscription.al"
@@ -2995,7 +2995,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 124,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Extension%2520Execution%2520Info.al"
@@ -3019,7 +3019,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 125,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Feature%2520Key.al"
@@ -3043,7 +3043,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 126,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Field.al"
@@ -3067,7 +3067,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 127,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520File.al"
@@ -3091,7 +3091,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 128,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Integer.al"
@@ -3115,7 +3115,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 129,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Key.al"
@@ -3139,7 +3139,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 130,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520License%2520Information.al"
@@ -3163,7 +3163,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 131,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520NAV%2520App%2520Extra.al"
@@ -3187,7 +3187,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 132,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Page%2520Action.al"
@@ -3211,7 +3211,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 133,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Page%2520Control%2520Field.al"
@@ -3235,7 +3235,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 134,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Page%2520Metadata.al"
@@ -3259,7 +3259,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 135,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Page%2520Table%2520Field.al"
@@ -3283,7 +3283,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 136,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520PageInfoAndFields.al"
@@ -3307,7 +3307,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 137,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Permission%2520Range.al"
@@ -3331,7 +3331,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 138,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Printer.al"
@@ -3355,7 +3355,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 139,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Query%2520Metadata.al"
@@ -3379,7 +3379,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 140,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Report%2520Data%2520Items.al"
@@ -3403,7 +3403,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 141,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Report%2520Layout%2520List.al"
@@ -3427,7 +3427,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 142,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Report%2520Metadata.al"
@@ -3451,7 +3451,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 143,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Report%2520Printer.al"
@@ -3475,7 +3475,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 144,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Session.al"
@@ -3499,7 +3499,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 145,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520SID%2520-%2520Account%2520ID.al"
@@ -3523,7 +3523,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 146,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520System%2520Object.al"
@@ -3547,7 +3547,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 147,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Table%2520Field%2520Types.al"
@@ -3571,7 +3571,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 148,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Table%2520Information.al"
@@ -3595,7 +3595,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 149,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Table%2520Metadata.al"
@@ -3619,7 +3619,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 150,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Table%2520Relations%2520Metadata.al"
@@ -3643,7 +3643,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 151,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Table%2520Synch.%2520Setup.al"
@@ -3667,7 +3667,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 152,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520Time%2520Zone.al"
@@ -3691,7 +3691,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Tables",
         "Index": 153,
         "SymbolZipPath": "src/Virtual%2520Tables/Table%2520-%2520WindowDialogs%2520Language.al"
@@ -3715,7 +3715,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 0,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520Company%2520Triggers.al"
@@ -3739,7 +3739,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 1,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520Debugger%2520Triggers.al"
@@ -3763,7 +3763,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 2,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520Environment%2520Triggers.al"
@@ -3787,7 +3787,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 3,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520Extension%2520Triggers.al"
@@ -3811,7 +3811,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 4,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520Filter%2520Helper%2520Triggers.al"
@@ -3835,7 +3835,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 5,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520Global%2520Triggers.al"
@@ -3859,7 +3859,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 6,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520Reporting%2520Triggers.al"
@@ -3883,7 +3883,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 7,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520Smartlist%2520Designer%2520Triggers.al"
@@ -3907,7 +3907,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 8,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520System%2520Action%2520Triggers.al"
@@ -3931,7 +3931,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 9,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520UI%2520Helper%2520Triggers.al"
@@ -3955,7 +3955,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 10,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520Upgrade%2520Triggers.al"
@@ -3979,7 +3979,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "Codeunits",
         "Index": 11,
         "SymbolZipPath": "src/System%2520Codeunits/Codeunit%2520-%2520Version%2520Triggers.al"
@@ -4003,7 +4003,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "ControlAddIns",
         "Index": 0,
         "SymbolZipPath": ""
@@ -4027,7 +4027,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "ControlAddIns",
         "Index": 1,
         "SymbolZipPath": ""
@@ -4051,7 +4051,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "ControlAddIns",
         "Index": 2,
         "SymbolZipPath": ""
@@ -4075,7 +4075,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "ControlAddIns",
         "Index": 3,
         "SymbolZipPath": ""
@@ -4099,7 +4099,7 @@
       "EventName": "not_an_event",
       "FieldName": "",
       "SymbolData": {
-        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecordsRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
+        "Path": "c:\\Users\\mursh\\Documents\\AL\\WebOrdersRecord\\.alpackages\\Microsoft_System_19.0.39770.0.app",
         "Type": "ControlAddIns",
         "Index": 4,
         "SymbolZipPath": ""

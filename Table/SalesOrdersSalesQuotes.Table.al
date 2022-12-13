@@ -42,13 +42,6 @@ table 50100 "Sales Orders / Sales Quotes"
             Caption = 'Item No.';
             DataClassification = CustomerContent;
             TableRelation = Item;
-
-            trigger OnValidate()
-            var
-                myInt: Integer;
-            begin
-
-            end;
         }
         field(8; Description; Text[100])
         {

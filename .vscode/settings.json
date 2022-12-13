@@ -1,8 +1,8 @@
-// {
-//     "al.enableCodeAnalysis": true,
-//     "al.codeAnalyzers": [
-//         "${CodeCop}",
-//         "${PerTenantExtensionCop}",
-//         "${UICop}"
-//     ]
-// }
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${PerTenantExtensionCop}",
+        "${UICop}"
+    ]
+}

@@ -8,7 +8,7 @@ page 50100 "Web Order Integration"
 
     layout
     {
-        area(content)
+        area(Content)
         {
             repeater(General)
             {
@@ -144,6 +144,7 @@ page 50100 "Web Order Integration"
                 ToolTip = 'Import Web Orders';
                 Promoted = true;
                 PromotedOnly = true;
+                //button will be in promoted section only in the ribbon. 
                 PromotedCategory = Process;
 
                 trigger OnAction()
@@ -267,25 +268,7 @@ page 50100 "Web Order Integration"
         webOrder.SetRange("Order/Quote Created", true);
         webOrder.SetRange("SO Posted", false);
         webOrder.SetRange("SO Posting Command", true);
-        // webOrder.SetCurrentKey("Document Type", "Document No.", "Line No.");
-        // if webOrder.FindFirst() then
-        //     repeat
-        //         if GroupDoc <> webOrder."Document No." then begin
-        //             GroupDoc := webOrder."Document No.";
-        //             clear(SalesHeader);
-        //             SalesHeader.SetRange("Document Type", SalesHeader."Document Type"::Order);
-        //             SalesHeader.SetRange("No.", webOrder."Document No.");
-        //             if SalesHeader.FindFirst() then
-        //                 if Codeunit.Run(Codeunit::"Sales-Post") then begin
-        //                     webOrder."SO Posted" := true;
-        //                     webOrder."SO Posting Command" := false;
-        //                     webOrder.Modify();
-        //                     // WebOrderIntegrataion."Posted Shipment No." := postedsalesIn."No.";
-        //                     // WebOrderIntegrataion."Posted Invoice No." := postedsalesIn."No.";
-        //                     Message('Generate Sales order post it Successfully !\')
-        //                 end;
-        //     until webOrder.Next() = 0;
-        //         end;
+
         webOrder.SetCurrentKey("Document Type", "Document No.", "Line No.");
         if webOrder.FindFirst() then
             repeat
@@ -329,7 +312,7 @@ page 50100 "Web Order Integration"
 
         // Message(Sheetname);
         Rec_ExcelBuffer.Reset();
-        Rec_ExcelBuffer.OpenBookStream(NVInStream, Sheetname); //SheetName
+        Rec_ExcelBuffer.OpenBookStream(NVInStream, Sheetname); //SheetName //this is where Rec_ExcelBuffer getting values of 4, 12
         Rec_ExcelBuffer.ReadSheet();
         Commit();
 

@@ -3,7 +3,7 @@ page 50100 "Web Order Integration"
     ApplicationArea = All;
     Caption = 'Web Order Integration';
     PageType = List;
-    SourceTable = "Sales Orders / Sales Quotes";
+    SourceTable = "Web Orders";
     UsageCategory = Lists;
 
     layout
@@ -136,7 +136,7 @@ page 50100 "Web Order Integration"
     {
         area(Processing)
         {
-            action(ImportWebOrders)
+            action(ImportWebOrdersRecords)
             {
                 ApplicationArea = All;
                 Caption = 'Import Web Orders';
@@ -168,11 +168,11 @@ page 50100 "Web Order Integration"
             {
                 ApplicationArea = All;
                 Promoted = true;
-                Caption = 'Generate Sales Orders / Sales Quotes';
+                Caption = 'Generate Web Orders';
                 PromotedCategory = Process;
                 PromotedOnly = true;
                 Image = Create;
-                ToolTip = 'Generate Sales Orders / Sales Quotes';
+                ToolTip = 'Generate Web Orders';
 
                 trigger OnAction()
                 var

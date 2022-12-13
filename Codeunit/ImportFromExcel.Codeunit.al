@@ -2,21 +2,18 @@ codeunit 50103 "Import From Excel"
 {
     trigger OnRun()
     begin
-        ImportWebOrdersFromExcel();
+        ImportWebOrdersRecordsFromExcel();
     end;
 
-    procedure ImportWebOrdersFromExcel()
+    procedure ImportWebOrdersRecordsFromExcel()
     var
-        WebOrderIntegrataion: Record "Sales Orders / Sales Quotes";
-        WebOrderIntegrataion2: Record "Sales Orders / Sales Quotes";
-        // CustomerMaster: Record Customer;
-        // DateVariant: Variant;
-        // DateCheck: Boolean;
+        WebOrdersRecordsRecord: Record "Web Orders";
+        WebOrdersTempRecord: Record "Web Orders";
         Inx: Integer;
-        WebOrderType: Enum "Document Type";
+        WebOrdersRecordType: Enum "Document Type";
     begin
 
-        Rec_ExcelBuffer.DeleteAll();
+        ExcelBufferRecord.DeleteAll();
         Rows := 0;
         Columns := 0;
         DialogCaption := 'Select File to upload';
@@ -26,54 +23,54 @@ codeunit 50103 "Import From Excel"
             exit;
 
         // Message(Sheetname);
-        Rec_ExcelBuffer.Reset();
-        Rec_ExcelBuffer.OpenBookStream(NVInStream, Sheetname); //SheetName //this is where Rec_ExcelBuffer getting values of 4, 12
-        Rec_ExcelBuffer.ReadSheet();
+        ExcelBufferRecord.Reset();
+        ExcelBufferRecord.OpenBookStream(NVInStream, Sheetname); //SheetName //this is where ExcelBufferRecord getting values of 4, 12
+        ExcelBufferRecord.ReadSheet();
         Commit();
 
         //finding total number of Rows to Import
-        Rec_ExcelBuffer.Reset();
-        Rec_ExcelBuffer.SetRange("Column No.", 1);
-        if Rec_ExcelBuffer.FindFirst() then
+        ExcelBufferRecord.Reset();
+        ExcelBufferRecord.SetRange("Column No.", 1);
+        if ExcelBufferRecord.FindFirst() then
             repeat
                 Rows := Rows + 1;
-            until Rec_ExcelBuffer.Next() = 0;
+            until ExcelBufferRecord.Next() = 0;
 
         //Finding total number of columns to import
-        Rec_ExcelBuffer.Reset();
-        Rec_ExcelBuffer.SetRange("Row No.", 1);
-        if Rec_ExcelBuffer.FindFirst() then
+        ExcelBufferRecord.Reset();
+        ExcelBufferRecord.SetRange("Row No.", 1);
+        if ExcelBufferRecord.FindFirst() then
             repeat
                 Columns := Columns + 1;
-            until Rec_ExcelBuffer.Next() = 0;
+            until ExcelBufferRecord.Next() = 0;
 
         //for loop starts here
         for RowNo := 2 to Rows do begin
             if GetValueAtIndex(RowNo, 1) = 'Order' then
-                WebOrderType := WebOrderType::Order
+                WebOrdersRecordType := WebOrdersRecordType::Order
             else
                 if GetValueAtIndex(RowNo, 1) = 'Quote' then
-                    WebOrderType := WebOrderType::Quote;
+                    WebOrdersRecordType := WebOrdersRecordType::Quote;
 
-            Clear(WebOrderIntegrataion2);
-            if not WebOrderIntegrataion2.Get(WebOrderType, GetValueAtIndex(RowNo, 2), GetValueAtIndex(RowNo, 3)) then begin
-                WebOrderIntegrataion.Init();
-                WebOrderIntegrataion."Document Type" := WebOrderType;
-                Evaluate(WebOrderIntegrataion."Document No.", GetValueAtIndex(RowNo, 2));
-                Evaluate(WebOrderIntegrataion."Line No.", GetValueAtIndex(RowNo, 3));
-                Evaluate(WebOrderIntegrataion."Document Date", GetValueAtIndex(RowNo, 5));
-                Evaluate(WebOrderIntegrataion.Description, GetValueAtIndex(RowNo, 8));
-                Evaluate(WebOrderIntegrataion.Qty, GetValueAtIndex(RowNo, 9));
-                Evaluate(WebOrderIntegrataion."Unit Price", GetValueAtIndex(RowNo, 10));
-                Evaluate(WebOrderIntegrataion."Discount Amount", GetValueAtIndex(RowNo, 11));
-                Evaluate(WebOrderIntegrataion.Amount, GetValueAtIndex(RowNo, 12));
-                WebOrderIntegrataion."Imported User" := UserId;
-                WebOrderIntegrataion."Imported Date" := Today;
-                WebOrderIntegrataion."Imported Time" := Time;
-                WebOrderIntegrataion.Validate("Item No.", GetValueAtIndex(RowNo, 7));
-                WebOrderIntegrataion.Validate("Customer No.", GetValueAtIndex(RowNo, 6));
-                WebOrderIntegrataion.Validate("Location Code", GetValueAtIndex(RowNo, 4));
-                if WebOrderIntegrataion.Insert(true) then
+            Clear(WebOrdersTempRecord);
+            if not WebOrdersTempRecord.Get(WebOrdersRecordType, GetValueAtIndex(RowNo, 2), GetValueAtIndex(RowNo, 3)) then begin
+                WebOrdersRecordsRecord.Init();
+                WebOrdersRecordsRecord."Document Type" := WebOrdersRecordType;
+                Evaluate(WebOrdersRecordsRecord."Document No.", GetValueAtIndex(RowNo, 2));
+                Evaluate(WebOrdersRecordsRecord."Line No.", GetValueAtIndex(RowNo, 3));
+                Evaluate(WebOrdersRecordsRecord."Document Date", GetValueAtIndex(RowNo, 5));
+                Evaluate(WebOrdersRecordsRecord.Description, GetValueAtIndex(RowNo, 8));
+                Evaluate(WebOrdersRecordsRecord.Qty, GetValueAtIndex(RowNo, 9));
+                Evaluate(WebOrdersRecordsRecord."Unit Price", GetValueAtIndex(RowNo, 10));
+                Evaluate(WebOrdersRecordsRecord."Discount Amount", GetValueAtIndex(RowNo, 11));
+                Evaluate(WebOrdersRecordsRecord.Amount, GetValueAtIndex(RowNo, 12));
+                WebOrdersRecordsRecord."Imported User" := UserId;
+                WebOrdersRecordsRecord."Imported Date" := Today;
+                WebOrdersRecordsRecord."Imported Time" := Time;
+                WebOrdersRecordsRecord.Validate("Item No.", GetValueAtIndex(RowNo, 7));
+                WebOrdersRecordsRecord.Validate("Customer No.", GetValueAtIndex(RowNo, 6));
+                WebOrdersRecordsRecord.Validate("Location Code", GetValueAtIndex(RowNo, 4));
+                if WebOrdersRecordsRecord.Insert(true) then
                     Inx += 1;
             end;
         end;
@@ -85,28 +82,22 @@ codeunit 50103 "Import From Excel"
             Error('Nothing to process.');
     end;
 
-    local procedure GetValueAtIndex(RowNo: Integer; ColNo: Integer): Text
+    local procedure GetValueAtIndex(Row: Integer; Col: Integer): Text
     var
-        Rec_ExcelBuffer: Record "Excel Buffer";
+        ExcelBufferTempRecord: Record "Excel Buffer";
     begin
-        Rec_ExcelBuffer.Reset();
-        if Rec_ExcelBuffer.Get(RowNo, ColNo) then exit(Rec_ExcelBuffer."Cell Value as Text");
+        ExcelBufferTempRecord.Reset();
+        if ExcelBufferTempRecord.Get(Row, Col) then exit(ExcelBufferTempRecord."Cell Value as Text");
     end;
 
     var
-        Rec_ExcelBuffer: Record "Excel Buffer";
-        // TimeDataUpload: Record "Sales Orders / Sales Quotes";
+        ExcelBufferRecord: Record "Excel Buffer";
         Rows: Integer;
         Columns: Integer;
-        // Fileuploaded: Boolean;
-        // UploadIntoStream: InStream;
-        // FileName: Text;
         Sheetname: Text;
         UploadResult: Boolean;
         DialogCaption: Text;
         Name: Text;
         NVInStream: InStream;
         RowNo: Integer;
-    // TxtDate: Text; // DocumentDate: Date;
-    // LineNo: Integer;
 }
